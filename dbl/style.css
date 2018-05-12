@@ -15,9 +15,7 @@ body {
 }
 
 #avatar {
-  height: 128px;
-  width: 128px;
-  border-radius: 128px;
+  border-radius: 150px;
 }
 
 #desc {
