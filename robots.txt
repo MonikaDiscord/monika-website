@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /404.html
+Noindex: /404.html
+Disallow: /README.md
+Noindex: /README.md
+Disallow: /LICENSE
+Noindex: /LICENSE
+Disallow: /assets/
+Noindex: /assets/
+
+Sitemap: https://monikabot.pw/sitemap.xml
