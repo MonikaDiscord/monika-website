@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 
 html {
-  background-color: black;
+  background-color: #2C2F33;
 }
 
 body {
@@ -16,7 +16,7 @@ body {
 }
 
 .avatar {
-  border-radius: 150px;
+  border-radius: 128px;
   padding-top: 30px;
 }
 
