@@ -15,11 +15,14 @@ body {
   padding-top: 15px;
 }
 
+#avatardiv {
+  padding-top: 25px;
+}
+
 .avatar {
   width: 128px;
   height: 128px;
   border-radius: 128px;
-  padding-top: 30px;
 }
 
 #desc {
