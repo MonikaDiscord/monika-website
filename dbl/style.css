@@ -17,6 +17,7 @@ body {
 
 .avatar {
   border-radius: 150px;
+  padding-top: 30px;
 }
 
 #desc {
